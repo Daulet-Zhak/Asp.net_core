@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|c:\\users\\dauka\\source\\repos\\webapplication2\\webapplication2\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|c:\\users\\dauka\\source\\repos\\webapplication2\\webapplication2\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|c:\\users\\dauka\\source\\repos\\webapplication2\\webapplication2\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|c:\\users\\dauka\\source\\repos\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|c:\\users\\dauka\\source\\repos\\webapplication2\\webapplication2\\domain\\itemtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\domain\\itemtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|c:\\users\\dauka\\source\\repos\\webapplication2\\webapplication2\\application\\tasksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\application\\tasksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|c:\\users\\dauka\\source\\repos\\webapplication2\\webapplication2\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|c:\\users\\dauka\\source\\repos\\webapplication2\\webapplication2\\validation\\updatetaskvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\validation\\updatetaskvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|c:\\users\\dauka\\source\\repos\\webapplication2\\webapplication2\\validation\\createtaskvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\validation\\createtaskvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|c:\\users\\dauka\\source\\repos\\webapplication2\\webapplication2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|c:\\users\\dauka\\source\\repos\\webapplication2\\webapplication2\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86B41CE-C7E9-4D37-9069-F35E8A556040}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "WebApplication2\\Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:23:17.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:29:08.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Domain\\user.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Domain\\user.cs",
+              "ToolTip": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Domain\\user.cs",
+              "RelativeToolTip": "WebApplication2\\Domain\\user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:50:22.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4vw8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:05:35.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:16:18.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TasksDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Application\\TasksDto.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Application\\TasksDto.cs",
+              "ToolTip": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Application\\TasksDto.cs",
+              "RelativeToolTip": "WebApplication2\\Application\\TasksDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:59:08.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Services\\JwtService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:10:48.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MongoDbService.cs",
+              "DocumentMoniker": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Services\\MongoDbService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\MongoDbService.cs",
+              "ToolTip": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Services\\MongoDbService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\MongoDbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:46:31.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateTaskValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Validation\\UpdateTaskValidator.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Validation\\UpdateTaskValidator.cs",
+              "ToolTip": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Validation\\UpdateTaskValidator.cs",
+              "RelativeToolTip": "WebApplication2\\Validation\\UpdateTaskValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:36:24.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemTask.cs",
+              "DocumentMoniker": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Domain\\ItemTask.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Domain\\ItemTask.cs",
+              "ToolTip": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Domain\\ItemTask.cs",
+              "RelativeToolTip": "WebApplication2\\Domain\\ItemTask.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:27:59.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateTaskValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Validation\\CreateTaskValidator.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Validation\\CreateTaskValidator.cs",
+              "ToolTip": "C:\\Users\\Dauka\\source\\repos\\WebApplication2\\WebApplication2\\Validation\\CreateTaskValidator.cs",
+              "RelativeToolTip": "WebApplication2\\Validation\\CreateTaskValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:27:06.9Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
